@@ -1,2 +1,2 @@
-# FRC2020ControlsCode
+# FRCControlsCode
 Here we will keep the code that is used to program the controls on our driver station.
